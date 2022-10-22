@@ -3,8 +3,6 @@
 
 ### First visit
 /wp-includes/wlwmanifest.xml
-/wp/wp-includes/wlwmanifest.xml
-/wordpress/wp-includes/wlwmanifest.xml
 ### If it is XML file then it is wordpress website.
 ### Now visit
 /wp-json/wp/v2/users/
@@ -18,7 +16,7 @@
 
 
 ##More useful links
-/xmlrpc.php
-/wp-json/oembed/1.0/embed?url=https://domain.com/
-/?author=1
-/xmlrpc.php?rsd
+`/xmlrpc.php`
+`/wp-json/oembed/1.0/embed?url=https://domain.com/`
+`/?author=1`
+`/xmlrpc.php?rsd`
