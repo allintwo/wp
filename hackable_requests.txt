@@ -1,0 +1,9 @@
+
+#If you want to hack wordpress _ please check this links
+
+/xmlrpc.php
+/wp-json/oembed/1.0/embed?url=https://domain.com/
+/wp-json/wp/v2/users/
+/?author=1
+/wp-includes/wlwmanifest.xml
+/xmlrpc.php?rsd
