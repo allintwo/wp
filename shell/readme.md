@@ -26,3 +26,8 @@ define( 'DB_COLLATE', '' );
 ```
 After database configured. He login into /wordpress/ and uploaded custom plugin "1573e01ab81348aaa355ea3dfb535f5c222.zip" into website.
 Then he run this plugin subfolder script `/wordpress/wp-content/plugins/1573e01ab81348aaa355ea3dfb535f5c/mm/`
+
+This script automaticaly added `ccx/index.php` and `991176.php` into my all folders and subfolders :(
+
+# If you are a  hacker - this information will be helpful for you.
+# Thank you
