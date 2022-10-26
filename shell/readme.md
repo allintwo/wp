@@ -31,3 +31,15 @@ This script automaticaly added `ccx/index.php` and `991176.php` into my all fold
 
 # If you are a  hacker - this information will be helpful for you.
 # Thank you
+
+
+# How to recover
+
+First edit .htaccss file and shut down website.
+then open terminal and run ssh command 
+```sh
+find . -name '*991176.php' -delete
+find . -name "*ccx*" -exec rm -rf {} +
+```
+
+
